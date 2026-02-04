@@ -14,7 +14,7 @@ This example shows how to implement the Mastra tool pattern using OpenAI's funct
 
 A simple agent that uses a single tool to fetch weather data:
 
-- **Tool**: `get_weather` - Fetches current weather from wttr.in API
+- **Tool**: `get_weather` - Fetches current weather from open-meteo API
 - **Usage**: Ask about weather in any location
 
 ```bash
